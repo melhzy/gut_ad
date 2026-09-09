@@ -1,4 +1,4 @@
-# gut_ad
+# Gut Phocaeicola–Bacteroides balance in AD
 
 Data and code repository for the working paper:
 
